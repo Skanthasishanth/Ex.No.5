@@ -33,8 +33,12 @@ Naïve prompt: Tell me a story.
 Naïve output (example):
 Once upon a time there was a traveler who wandered from town to town. He met people, saw strange places, and found a little trouble along the way. Eventually he learned something about himself and moved on, feeling wiser.
 
-Basic prompt: Write a short story (200–300 words) about a young explorer who discovers a hidden city in the Amazon rainforest. Focus on sensory description, the explorer’s emotions, and a single turning point.
+Basic prompt: 
+
+Write a short story (200–300 words) about a young explorer who discovers a hidden city in the Amazon rainforest. Focus on sensory description, the explorer’s emotions, and a single turning point.
+
 Basic output (example ~220 words):
+
 Maya stepped from the canoe as dawn stitched gold into the river’s skin. The forest inhaled and a perfume of wet earth and green fruit rose to meet her. For months she’d tracked old maps and half-memories until the trees opened—an impossible valley held a city of stone and vines. Columns rose like rib bones from the soil; moss stitched mosaics where mosaics once had been. Maya’s first feeling was disbelief, then a small, fierce joy that tightened her chest. She traced a pattern on a basin and felt the echo of a hand that had worked this place long ago. At the city’s heart a plaza lay clear, a single statue holding its weathered palm out like an invitation. Then the ground hummed—a buried stream freed itself— and for a moment Maya heard, as if in reply, a soft chorus of language she could not place. She had come to prove a map right; she left knowing she had been shown something older: endurance, and the fragile way human presence imprints the land. On the river back she wrote names in her notebook, not to possess the place but to promise to return and listen.
 
 Quick analysis: Naïve output is generic and unfocused. Basic output is descriptive, emotionally grounded, and contains a clear turning point.
@@ -42,23 +46,33 @@ Quick analysis: Naïve output is generic and unfocused. Basic output is descript
 #### Scenario 2 — Factual explanation
 
 Naïve prompt: What is AI?
+
 Naïve output (example):
+
 AI, or artificial intelligence, is the simulation of human intelligence by machines. It includes things like machine learning and is used in many applications.
 
 Basic prompt: Explain Artificial Intelligence: define it, list 3 real-world applications with short examples, and mention two main advantages and two potential risks (one sentence each).
+
 Basic output (example):
+
+
 Artificial Intelligence (AI) is the design of computer systems that perform tasks typically requiring human intelligence, such as pattern recognition, decision-making, and language understanding. Real-world applications: (1) Healthcare diagnostics: ML models analyze scans to flag anomalies (e.g., detecting tumors from imagery). (2) Autonomous vehicles: sensor fusion and planning algorithms let vehicles navigate traffic and avoid collisions. (3) Customer service chatbots: NLP systems handle routine inquiries and route complex cases to humans. Advantages: improved efficiency (automates repetitive tasks), and enhanced data-driven decision-making (finds patterns humans might miss). Risks: bias and unfair outcomes (models trained on skewed data can discriminate), and overreliance/automation risk (loss of human oversight causing critical errors).
+
 
 Quick analysis: Basic prompt produces structured, citation-like content with concrete examples and balanced pros/cons; naïve prompt gives only a short, superficial definition.
 
 #### Scenario 3 — Summarization
 
 Naïve prompt: Summarize climate change.
+
 Naïve output (example):
+
 Climate change is when the Earth’s climate changes, often because of human activities like burning fossil fuels, and it causes problems like more extreme weather.
 
 Basic prompt: Summarize the concept of climate change in 4–5 sentences. Include main causes, primary environmental effects, and why it matters globally.
+
 Basic output (example):
+
 Climate change refers to long-term shifts in temperature and weather patterns primarily caused by human emissions of greenhouse gases—chiefly carbon dioxide from burning fossil fuels and methane from agriculture. The added greenhouse gases trap more heat in the atmosphere, leading to global warming and disruption of climate systems. Primary effects include more frequent extreme weather events (storms, heatwaves), rising sea levels that threaten coastal communities, and ecosystem shifts that endanger species. It matters globally because these impacts threaten food and water security, human health, infrastructure, and economic stability—disproportionately affecting vulnerable populations.
 
 Quick analysis: Basic prompt yields a concise, multi-component summary hitting causes, effects, and significance; naïve prompt is too brief and leaves out several key aspects.
@@ -66,10 +80,13 @@ Quick analysis: Basic prompt yields a concise, multi-component summary hitting c
 #### Scenario 4 — Practical advice / recommendations
 
 Naïve prompt: Give me advice.
+
 Naïve output (example):
+
 Work hard, be kind, and take care of yourself.
 
 Basic prompt: Give me three practical tips for improving productivity as a university student. For each tip, include one concrete action and one short example.
+
 Basic output (example):
 
 Time-block with the Pomodoro method: Action — schedule 25-minute focused sessions followed by 5-minute breaks; Example — use a timer to study calculus problems for four Pomodoros, then reward yourself with a 20-minute break.
