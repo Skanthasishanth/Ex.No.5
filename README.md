@@ -12,6 +12,7 @@ ChatGPT (GPT-5)
 ### Explanation
 
 Naïve Prompt: short, vague, minimal context (e.g., “Tell me a story.”) — leaves intent and constraints unspecified.
+
 Basic Prompt: explicit instructions, constraints, and context (e.g., word limits, focus, audience, format). This reduces ambiguity and guides the model toward the intended output.
 
 ### Methodology
@@ -30,7 +31,9 @@ Produce a comparison table, short qualitative analysis per scenario, and overall
 #### Scenario 1 — Creative story generation
 
 Naïve prompt: Tell me a story.
+
 Naïve output (example):
+
 Once upon a time there was a traveler who wandered from town to town. He met people, saw strange places, and found a little trouble along the way. Eventually he learned something about himself and moved on, feeling wiser.
 
 Basic prompt: 
