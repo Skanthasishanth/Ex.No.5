@@ -105,16 +105,9 @@ Quick analysis: Basic prompt yields actionable, concrete, and immediately usable
 
 Scores per scenario on metrics [Quality, Accuracy, Depth, Creativity, Specificity, Relevance] (scale 1–5). Averages computed per row.
 
-| Scenario / Prompt      | Quality | Accuracy | Depth | Creativity | Specificity | Relevance | **Average** |
-| ---------------------- | ------: | -------: | ----: | ---------: | ----------: | --------: | ----------: |
-| **Scenario 1 — Naïve** |       2 |        3 |     1 |          2 |           1 |         3 |    **2.00** |
-| **Scenario 1 — Basic** |       5 |        5 |     5 |          5 |           5 |         5 |    **5.00** |
-| **Scenario 2 — Naïve** |       2 |        2 |     1 |          1 |           1 |         2 |    **1.50** |
-| **Scenario 2 — Basic** |       5 |        5 |     5 |          2 |           5 |         5 |    **4.50** |
-| **Scenario 3 — Naïve** |       2 |        2 |     1 |          1 |           1 |         2 |    **1.50** |
-| **Scenario 3 — Basic** |       5 |        5 |     5 |          2 |           5 |         5 |    **4.50** |
-| **Scenario 4 — Naïve** |       2 |        2 |     1 |          1 |           1 |         2 |    **1.50** |
-| **Scenario 4 — Basic** |       5 |        5 |     5 |          3 |           5 |         5 |    **4.67** |
+
+<img width="1016" height="432" alt="image" src="https://github.com/user-attachments/assets/10b94bfd-c477-4933-90f4-e028c14598b6" />
+
 
 Overall average (Naïve prompts across scenarios): 1.63
 Overall average (Basic prompts across scenarios): 4.67
